@@ -1,7 +1,7 @@
 {
   //Localización del archivo : C:\Users\USUARIO\AppData\Roaming\Code\User\settings.json
   
-  //Paso1. Instalar extension en VSCODE "REMOTE WSL" y "Powershell" , ademas, instalar Ubuntu 20.04 en la tienda de Windows 10.
+  //Paso1. Instalar extension en VSCODE "REMOTE WSL", "Shell Launcher" y "Powershell" , ademas, instalar Ubuntu 20.04 en la tienda de Windows 10.
    
   //Paso2. Instalar Git y Gitbash
   //Source : https://docs.microsoft.com/es-es/windows/wsl/install-win10
