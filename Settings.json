@@ -27,7 +27,7 @@
     }
     ],
     
-  ///Instalación DE JRE, se ha de descargar el directorio de JRE11 ->     "java.home" : "RUTA DE JRE" , 
+  ///Instalación DE JRE, se ha de descargar el directorio de JRE11 ->     "java.home" : "RUTA DE JRE" ,  
   
   "java.home" : "C:\\Instalacion de Java\\JRE\\java-11",
   
